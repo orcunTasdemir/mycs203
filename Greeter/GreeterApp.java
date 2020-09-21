@@ -17,12 +17,12 @@ public class GreeterApp
     }
 
     public static void main(){
-           
+        System.out.println("Initial name for obj1 is 'Orcun'");
         Greeter greetObj1 = new Greeter("Orcun");
         Greeter greetObj2 =  greetObj1;
         
-        System.out.println("Set name for obj1 to Orcun");
-        greetObj1.setName("Orcun");   
+        System.out.println("Set name for obj1 to NewlySetName");
+        greetObj1.setName("NewlySetName");   
         System.out.println("name set: " + greetObj1.getName());
         System.out.println("Second variable for the same object calls sayHello on the name");
         greetObj2.sayHello();
