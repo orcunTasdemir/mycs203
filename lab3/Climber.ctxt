@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Climber
+comment0.text=\r\n\ A\ climber\ is\ a\ person\ who\ ascends\ vertical\ rocks.\r\n\ The\ difference\ between\ a\ climber's\ armspan\ and\ their\ height\ is\ called\r\n\ their\ "apeIndex".\r\n\ @author\ Orcun\ Tasdemir\r\n\ @version\ Sep\ 2020\r\n
+comment1.params=
+comment1.target=Climber()
+comment1.text=\r\n\ Constructor\ for\ an\ empty\ Climber.\r\n
+comment2.params=namep\ apeIndexp
+comment2.target=Climber(java.lang.String,\ int)
+comment2.text=\r\n\ Construct\ a\ climber\ with\ the\ given\ attributes.\r\n\ \r\n\ @param\ \ namep\ the\ climber's\ name\r\n\ @param\ \ apeIndexp\ the\ climber's\ apeIndex\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ Accessor\ to\ climber's\ name.\r\n\ @return\ String\ the\ name\ of\ this\ climber\r\n
+comment4.params=
+comment4.target=int\ getApeIndex()
+comment4.text=\r\n\ Accessor\ to\ climber's\ apeIndex.\r\n\ @return\ int\ the\ apeIndex\ of\ this\ climber\r\n
+comment5.params=
+comment5.target=boolean\ hasLongReach()
+comment5.text=\ Return\ whether\ or\ not\ this\ climber\ has\ a\ long\ reach.\r\n\ @return\ true\ if\ this\ climber's\ apeIndex\ >\ 2,\ false\ otherwise.\r\n
+comment6.params=
+comment6.target=boolean\ isEmpty()
+comment6.text=\ Return\ whether\ or\ not\ this\ climber\ is\ empty.\r\n\ @return\ true\ if\ this\ climber\ has\ a\ name\ of\ length\ zero.\r\n
+comment7.params=other
+comment7.target=boolean\ equals(java.lang.Object)
+comment7.text=\ Determine\ if\ two\ climber's\ are\ the\ same.\r\n\ @param\ other\ the\ climber\ to\ whom\ this\ climber\ is\ compared\r\n\ @return\ true\ if\ climber's\ are\ equal\r\n
+numComments=8
