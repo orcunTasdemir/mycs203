@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MoveableShape
+comment0.text=\r\n\ \ \ A\ shape\ that\ can\ be\ moved\ around.\r\n
+comment1.params=g2
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment1.text=\r\n\ \ \ \ \ \ Draws\ the\ shape.\r\n\ \ \ \ \ \ @param\ g2\ the\ graphics\ context\r\n
+comment2.params=dx\ dy
+comment2.target=void\ translate(int,\ int)
+comment2.text=\r\n\ \ \ \ \ \ Moves\ the\ shape\ by\ a\ given\ amount.\r\n\ \ \ \ \ \ @param\ dx\ the\ amount\ to\ translate\ in\ x-direction\r\n\ \ \ \ \ \ @param\ dy\ the\ amount\ to\ translate\ in\ y-direction\r\n
+numComments=3

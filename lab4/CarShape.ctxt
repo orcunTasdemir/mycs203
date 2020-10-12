@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CarShape
+comment0.text=\r\n\ \ \ A\ car\ that\ can\ be\ moved\ around.\r\n
+comment1.params=x\ y\ width
+comment1.target=CarShape(int,\ int,\ int)
+comment1.text=\r\n\ \ \ \ \ \ Constructs\ a\ car\ item.\r\n\ \ \ \ \ \ @param\ x\ the\ left\ of\ the\ bounding\ rectangle\r\n\ \ \ \ \ \ @param\ y\ the\ top\ of\ the\ bounding\ rectangle\r\n\ \ \ \ \ \ @param\ width\ the\ width\ of\ the\ bounding\ rectangle\r\n
+comment2.params=dx\ dy
+comment2.target=void\ translate(int,\ int)
+comment3.params=g2
+comment3.target=void\ draw(java.awt.Graphics2D)
+numComments=4

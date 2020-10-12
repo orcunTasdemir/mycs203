@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ShapeIcon
+comment0.text=\r\n\ \ \ An\ icon\ that\ contains\ a\ moveable\ shape.\r\n
+comment1.params=shape\ width\ height
+comment1.target=ShapeIcon(MoveableShape,\ int,\ int)
+comment2.params=
+comment2.target=int\ getIconWidth()
+comment3.params=
+comment3.target=int\ getIconHeight()
+comment4.params=c\ g\ x\ y
+comment4.target=void\ paintIcon(java.awt.Component,\ java.awt.Graphics,\ int,\ int)
+numComments=5
