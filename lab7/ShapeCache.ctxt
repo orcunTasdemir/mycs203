@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ShapeCache
+comment1.params=shapeId
+comment1.target=Shape\ getShape(java.lang.String)
+comment2.params=
+comment2.target=void\ loadCache()
+numComments=3
