@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BarChart
+comment1.params=
+comment1.target=BarChart()
+comment2.params=
+comment2.target=void\ initUI()
+comment3.params=
+comment3.target=org.jfree.data.category.CategoryDataset\ createDataset()
+comment4.params=dataset
+comment4.target=org.jfree.chart.JFreeChart\ createChart(org.jfree.data.category.CategoryDataset)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
